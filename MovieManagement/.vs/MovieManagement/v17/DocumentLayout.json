@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jp893\\source\\repos\\MovieManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D544DE11-3EB8-4DF6-B4C6-E12B5E135399}|MovieManagement\\MovieManagement.csproj|c:\\users\\jp893\\source\\repos\\moviemanagement\\moviemanagement\\repository\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D544DE11-3EB8-4DF6-B4C6-E12B5E135399}|MovieManagement\\MovieManagement.csproj|solutionrelative:moviemanagement\\repository\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\Users\\jp893\\source\\repos\\MovieManagement\\MovieManagement\\Repository\\MovieContext.cs",
+              "RelativeDocumentMoniker": "MovieManagement\\Repository\\MovieContext.cs",
+              "ToolTip": "C:\\Users\\jp893\\source\\repos\\MovieManagement\\MovieManagement\\Repository\\MovieContext.cs",
+              "RelativeToolTip": "MovieManagement\\Repository\\MovieContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:02:42.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
