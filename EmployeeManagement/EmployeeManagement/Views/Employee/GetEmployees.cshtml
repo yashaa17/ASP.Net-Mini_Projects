@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    List<Employee> employees = (List<Employee>)ViewData["catalog"];
+    <h1>List of employees</h1>
+    <ol>
+        @{
+            foreach(Employee employee in employees)
+            {
+                <li>
+                @employee.id
+                @employee.name
+                @employee.reg_date
+                @employee.address
+                @employee.mob_num
+                @employee.email
+                @employee.password
+                </li>
+            }
+        }
+
+    </ol>
+}

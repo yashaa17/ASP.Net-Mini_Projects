@@ -1,0 +1,20 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+    List<Employee> employees = (List<Employee>)ViewData["sort"];
+    foreach(Employee employee in employees)
+    {
+        <ul>
+        <li>
+        @employee.name
+        @employee.mob_num
+        @employee.email
+        @employee.address
+        @employee.id
+        @employee.reg_date
+        </li>
+        </ul>
+    }
+}

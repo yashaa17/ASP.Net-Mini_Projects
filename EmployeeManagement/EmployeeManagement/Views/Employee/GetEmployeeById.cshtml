@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+<form asp-action="GetEmployeeById" method="post">
+    <input type="number" name="id"/>
+    <input type="submit" name="Serach"/>
+</form>
+    
+    @if(ViewData["id"] != null)
+    {
+        var emp = (Employee)ViewData["id"];
+        <ul>
+        <li>
+        @emp.id
+        @emp.name
+        @emp.email
+        @emp.mob_num
+        @emp.address
+        @emp.reg_date
+        </li>
+        </ul>
+    }
+
+}

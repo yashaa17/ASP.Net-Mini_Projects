@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\repositories\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\repositories\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\repositories\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\repositories\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\views\\employee\\addemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\views\\employee\\addemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\repositories\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\repositories\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\views\\employee\\sort.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\views\\employee\\sort.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\repositories\\iemployeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\repositories\\iemployeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\views\\employee\\getemployeebyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\views\\employee\\getemployeebyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\views\\employee\\getemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\views\\employee\\getemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\repositories\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\repositories\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\raval\\source\\repos\\employeeapplication\\employeeapplication\\views\\employee\\deleteemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3353B72E-9DD6-4D89-87C8-C5A7EC46E896}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\views\\employee\\deleteemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Repositories\\Manager.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Repositories\\Manager.cs",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Repositories\\Manager.cs",
+              "RelativeToolTip": "EmployeeApplication\\Repositories\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:57:33.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeeApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwBAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:56:14.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IManager.cs",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Repositories\\IManager.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Repositories\\IManager.cs",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Repositories\\IManager.cs",
+              "RelativeToolTip": "EmployeeApplication\\Repositories\\IManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:56:58.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T14:06:17.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Services\\IService.cs",
+              "RelativeToolTip": "EmployeeApplication\\Services\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:01:16.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Services\\Service.cs",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Services\\Service.cs",
+              "RelativeToolTip": "EmployeeApplication\\Services\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:01:48.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmployeeApplication\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T16:53:00.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "EmployeeApplication\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T17:10:19.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EmployeeApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T16:46:28.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeApplication\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwBYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:52:43.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeApplication\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:50:35.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddEmployees.cshtml",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Employee\\AddEmployees.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Views\\Employee\\AddEmployees.cshtml",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Employee\\AddEmployees.cshtml",
+              "RelativeToolTip": "EmployeeApplication\\Views\\Employee\\AddEmployees.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T18:09:27.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Program.cs",
+              "RelativeToolTip": "EmployeeApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:07:07.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeApplication\\Services\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:49:50.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Repositories\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Repositories\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Repositories\\EmployeeManager.cs",
+              "RelativeToolTip": "EmployeeApplication\\Repositories\\EmployeeManager.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwC0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:48:22.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Repositories\\IEmployeeManager.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Repositories\\IEmployeeManager.cs",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Repositories\\IEmployeeManager.cs",
+              "RelativeToolTip": "EmployeeApplication\\Repositories\\IEmployeeManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:47:40.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sort.cshtml",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Employee\\Sort.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Views\\Employee\\Sort.cshtml",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Employee\\Sort.cshtml",
+              "RelativeToolTip": "EmployeeApplication\\Views\\Employee\\Sort.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T16:37:55.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "EmployeeApplication\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T16:27:45.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetEmployees.cshtml",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Employee\\GetEmployees.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Views\\Employee\\GetEmployees.cshtml",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Employee\\GetEmployees.cshtml",
+              "RelativeToolTip": "EmployeeApplication\\Views\\Employee\\GetEmployees.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T14:30:22.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeApplication\\Models\\Employee.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wAwAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:34:47.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetEmployeeById.cshtml",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Employee\\GetEmployeeById.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Views\\Employee\\GetEmployeeById.cshtml",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Employee\\GetEmployeeById.cshtml",
+              "RelativeToolTip": "EmployeeApplication\\Views\\Employee\\GetEmployeeById.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T16:05:41.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EmployeeApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T14:33:56.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CollectionContext.cs",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Repositories\\CollectionContext.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Repositories\\CollectionContext.cs",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Repositories\\CollectionContext.cs",
+              "RelativeToolTip": "EmployeeApplication\\Repositories\\CollectionContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwB8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:01:31.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeleteEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Employee\\DeleteEmployee.cshtml",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Views\\Employee\\DeleteEmployee.cshtml",
+              "ToolTip": "C:\\Users\\raval\\source\\repos\\EmployeeApplication\\EmployeeApplication\\Views\\Employee\\DeleteEmployee.cshtml",
+              "RelativeToolTip": "EmployeeApplication\\Views\\Employee\\DeleteEmployee.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T14:15:01.315Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
