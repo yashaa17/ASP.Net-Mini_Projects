@@ -1,0 +1,31 @@
+E:\MS.Net\Green Basket\Green Basket\bin\Debug\net8.0\appsettings.Development.json
+E:\MS.Net\Green Basket\Green Basket\bin\Debug\net8.0\appsettings.json
+E:\MS.Net\Green Basket\Green Basket\bin\Debug\net8.0\Green Basket.staticwebassets.runtime.json
+E:\MS.Net\Green Basket\Green Basket\bin\Debug\net8.0\Green Basket.exe
+E:\MS.Net\Green Basket\Green Basket\bin\Debug\net8.0\Green Basket.deps.json
+E:\MS.Net\Green Basket\Green Basket\bin\Debug\net8.0\Green Basket.runtimeconfig.json
+E:\MS.Net\Green Basket\Green Basket\bin\Debug\net8.0\Green Basket.dll
+E:\MS.Net\Green Basket\Green Basket\bin\Debug\net8.0\Green Basket.pdb
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\Green Basket.GeneratedMSBuildEditorConfig.editorconfig
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\Green Basket.AssemblyInfoInputs.cache
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\Green Basket.AssemblyInfo.cs
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\Green Basket.csproj.CoreCompileInputs.cache
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\Green Basket.MvcApplicationPartsAssemblyInfo.cache
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\Green Basket.RazorAssemblyInfo.cache
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\Green Basket.RazorAssemblyInfo.cs
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\Green Basket.sourcelink.json
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\staticwebassets.build.json
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\staticwebassets.development.json
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\staticwebassets\msbuild.Green Basket.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\staticwebassets\msbuild.build.Green Basket.props
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Green Basket.props
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Green Basket.props
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\staticwebassets.pack.json
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\scopedcss\bundle\Green Basket.styles.css
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\scopedcss\projectbundle\Green Basket.bundle.scp.css
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\Green Basket.dll
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\refint\Green Basket.dll
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\Green Basket.pdb
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\Green Basket.genruntimeconfig.cache
+E:\MS.Net\Green Basket\Green Basket\obj\Debug\net8.0\ref\Green Basket.dll
